@@ -22,3 +22,6 @@ https://websitesetup.org/wp-content/uploads/2020/04/MySQL-Cheat-Sheet-Summary.pn
 
 Machine learning interview :-
  https://link.medium.com/43A2oTL3sfb
+ 
+ Want a read this repo:-
+ https://github.com/wesm/pydata-book
