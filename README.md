@@ -18,3 +18,7 @@ https://www.knowledgeisle.com/wp-content/uploads/2019/12/2-Aur%C3%A9lien-G%C3%A9
 
 MYSQL CHEAT SHEET:- 
 https://websitesetup.org/wp-content/uploads/2020/04/MySQL-Cheat-Sheet-Summary.png
+
+
+Machine learning interview :-
+ https://link.medium.com/43A2oTL3sfb
