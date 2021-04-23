@@ -25,3 +25,7 @@ Machine learning interview :-
  
  Want a read this repo:-
  https://github.com/wesm/pydata-book
+
+
+feature selection techniqe:- 
+https://github.com/krishnaik06/Feature-Selection-techniques.git
